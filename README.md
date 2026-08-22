@@ -1,5 +1,11 @@
 ##  👋 Hello there...
-My name is Dhiman Paul. I am an aspiring developer. Currently i'm learning. I know html,css,tailwind and JavaScript. I am willing to learn more languages and frameworks. i have done some small indie small projects on my own. I know basic problem solving with JS. Hope that i will be able to contribute in some real projects very soon.
+My name is Dhiman Paul. I am an aspiring developer. Currently i'm learning. I know html,css,tailwind and JavaScript and also typeScript. I am willing to learn more languages and frameworks. i have done some small indie small projects on my own. I know basic problem solving with JS. Hope that i will be able to contribute in some real projects very soon.
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="36" /></a>
 <!--
 **dhiman067/dhiman067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
