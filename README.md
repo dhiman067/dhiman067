@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##  👋 Hello there...
+My name is Dhiman Paul. I am an aspiring developer. Currently i'm learning. I know html,css,tailwind and JavaScript. I am willing to learn more languages and frameworks. i have done some small indie small projects on my own. I know basic problem solving with JS. Hope that i will be able to contribute in some real projects very soon.
 <!--
 **dhiman067/dhiman067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
