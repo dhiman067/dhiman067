@@ -28,8 +28,8 @@
 - 🔭 I'm currently building projects with **React**
 - 🌱 I'm currently learning **React** (deepening my JS/TS foundations)
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: *add something about yourself here*
+- 📫 Reach me at: **dhimanpaul119@gmail.com**
+- ⚡ Fun fact: *movies,books and games...are keeping me alive*
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
