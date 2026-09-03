@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Dhiman</h1>
 <h3 align="center">Frontend Developer | Building clean, fast UIs with React</h3>
 
 <p align="center">
@@ -43,27 +43,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhiman067&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiman067&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhiman067&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiman067&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiman067&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhiman067&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Project Name](https://github.com/your-username/project-repo)**
+**[Project Name](https://github.com/dhiman067/project-repo)**
 Short one-line description of what it does and what you used.
 🔗 [Live Demo](https://your-demo-link.com)
 
-**[Project Name 2](https://github.com/your-username/project-repo-2)**
+**[Project Name 2](https://github.com/dhiman067/project-repo-2)**
 Short one-line description of what it does and what you used.
 🔗 [Live Demo](https://your-demo-link.com)
 
@@ -72,11 +72,11 @@ Short one-line description of what it does and what you used.
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiman067&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dhiman067&style=flat-square&color=blue" alt="Profile views" />
 </p>
