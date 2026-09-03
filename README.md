@@ -52,9 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiman067&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=F72585" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiman067&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
+
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
