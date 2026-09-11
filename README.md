@@ -97,13 +97,13 @@
 
 # 📊 GitHub Analytics
 
+
+
 <div align="center">
 
-  <!-- Main GitHub Stats -->
- <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dhiman067&show_icons=true&theme=synthwave&hide_border=true&title_color=00F5D4&icon_color=F72585&text_color=E0E0E0&bg_color=1F0933&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dhiman067&show_icons=true&theme=radical&hide_border=true&title_color=F72585&icon_color=F72585&text_color=E0E0E0&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
   &nbsp;
-  <!-- Top Languages Card (Using fast/reliable endpoint) -->
-  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhiman067&layout=compact&theme=synthwave&hide_border=true&title_color=00F5D4&text_color=E0E0E0&bg_color=1F0933" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhiman067&layout=compact&theme=radical&hide_border=true&title_color=F72585&text_color=E0E0E0&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
@@ -111,12 +111,11 @@
 
 <div align="center">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiman067&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=F72585" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiman067&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=F72585" />
-</p>
+</div>
 
-
+<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
