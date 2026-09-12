@@ -123,11 +123,11 @@
 
  *A selection of frontend projects built with modern web technologies:*
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Site | Repository |
 | :--- | :--- | :--- | :--- |
-| 🌐 **Personal Portfolio** | Interactive web developer portfolio showcasing projects & UI designs. | `React` `TypeScript` `Tailwind` | [Code](https://github.com/dhiman067) |
-| 🛍️ **E-Commerce Interface** | Fully responsive shopping layout with interactive component states. | `React` `JavaScript` `CSS3` | [Code](https://github.com/dhiman067) |
-| 📌 **Task Management App** | Dynamic dashboard interface with interactive task tracking. | `TypeScript` `Tailwind` `HTML5` | [Code](https://github.com/dhiman067) |
+| 🌐 **Personal Portfolio** | Interactive web developer portfolio showcasing projects & UI designs. | [Link](https://github.com/dhiman067) | [Code](https://github.com/dhiman067) |
+| 🛍️ **E-Commerce Interface** | Fully responsive shopping layout with interactive component states. | [Link](https://github.com/dhiman067) | [Code](https://github.com/dhiman067) |
+| 📌 **Development Tool Manager** | Fully responsive develop tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com/dhiman067/assignment-05) |
 
 ---
 
