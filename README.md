@@ -1,19 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Dhiman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<h3 align="center">Frontend Developer | Building clean, fast UIs with React</h3>
+<h3 align="center">Frontend Developer | Building clean, fast UIs with React & Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=550&lines=Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Tailwind+CSS;JavaScript+%7C+TypeScript;Currently+Learning+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Tailwind+CSS;JavaScript+%7C+TypeScript;Building+with+React+%26+Next.js+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:dhimanpaul119@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
@@ -25,11 +25,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently building projects with **React**
-- 🌱 I'm currently learning **React** (deepening my JS/TS foundations)
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript**
+- 🔭 I'm currently building projects with **React** & **Next.js**
+- 🌱 I'm currently exploring **Next.js** (SSR, SSG, Server Components & App Router)
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React**
 - 📫 Reach me at: **dhimanpaul119@gmail.com**
-- ⚡ Fun fact: *movies,books and games...are keeping me alive*
+- ⚡ Fun fact: *movies, books, and games... are keeping me alive*
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
@@ -38,8 +38,11 @@
 <div align="center">
 
   <!-- Core Focus Banner / Primary Stack -->
-  <p><b>Core Frontend Stack</b></p>
+  <p><b>Core Frontend & Framework Stack</b></p>
   
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
@@ -85,19 +88,17 @@
 
   <br/><br/>
 
-  <!-- Animated Dynamic Skill Bar / Visual Focus Icons -->
+  <!-- Visual Focus Icons -->
   <p><b>Visual Skill Focus</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,github,vscode&perline=9" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,git,github,vscode&perline=10" alt="Skill Icons" />
   </p>
 
 </div>
 
-
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 # 📊 GitHub Analytics
-
-
 
 <div align="center">
 
@@ -121,13 +122,13 @@
 
 ### 🚀 Featured Projects
 
- *A selection of frontend projects built with modern web technologies:*
+*A selection of frontend projects built with modern web technologies:*
 
 | Project | Description | Site | Repository |
 | :--- | :--- | :--- | :--- |
 | 🌐 **Personal Portfolio** | Interactive web developer portfolio showcasing projects & UI designs. | [Link](https://github.com/dhiman067) | [Code](https://github.com/dhiman067) |
 | 🛍️ **E-Commerce Interface** | Fully responsive shopping layout with interactive component states. | [Link](https://github.com/dhiman067) | [Code](https://github.com/dhiman067) |
-| 📌 **Development Tool Manager** | Fully responsive develop tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com/dhiman067/assignment-05) |
+| 📌 **Development Tool Manager** | Fully responsive developer tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com/dhiman067/assignment-05) |
 
 ---
 
@@ -156,13 +157,13 @@
   </a>
   &nbsp;
   <!-- Email Badge -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:dhimanpaul119@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
 
-
+<br/>
 
 ### 💭 Random Dev Quote
 
