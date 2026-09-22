@@ -124,11 +124,11 @@
 
 *A selection of frontend projects built with modern web technologies:*
 
-| Project | Description | Site | Repository |
-| :--- | :--- | :--- | :--- |
-| 🌐 **Personal Portfolio** | Interactive web developer portfolio showcasing projects & UI designs. | [Link](https://github.com/dhiman067) | [Code](https://github.com/dhiman067) |
-| 🛍️ **E-Commerce Interface** | Fully responsive shopping layout with interactive component states. | [Link](https://github.com/dhiman067) | [Code](https://github.com/dhiman067) |
-| 📌 **Development Tool Manager** | Fully responsive developer tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com/dhiman067/assignment-05) |
+| Project | Description | Site | Repository | Stacks |
+| :--- | :--- | :--- | :--- | :--- |
+| 🌐 **Geometry Genius** | Interactive site to calculate area and volumes of different kind of shapes . | [Link](https://geometry-genius-sand.vercel.app/) | [Code](https://github.com/dhiman067) | Tailwind, Vanilla JavaScript |
+| 📌 **CinePulse-Find All Your Tv Shows** | Fully responsive portal to find all your favorite tv shows with interactive component states. | [Link](https://cinepulse-site.vercel.app/) | [Code](https://github.com/dhiman067) | Tailwind, JavaScript, React |
+| 📌 **Development Tool Manager** | Fully responsive developer tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com/dhiman067/assignment-05) | Tailwind, TypeScript, React |
 
 ---
 
