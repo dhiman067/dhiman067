@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Dhiman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<h3 align="center">Frontend Developer | Building clean, fast UIs with React & Next.js</h3>
+<h3 align="center">Frontend & Full-Stack Developer | Building clean, fast UIs with React, Next.js & MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Tailwind+CSS;JavaScript+%7C+TypeScript;Building+with+React+%26+Next.js+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Frontend+%26+Full-Stack+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Tailwind+CSS;JavaScript+%7C+TypeScript;Building+with+React+%26+Next.js+%E2%9A%9B%EF%B8%8F;Authentication+via+Better+Auth;Database+Management+with+MongoDB+%F0%9F%8D%83" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently building projects with **React** & **Next.js**
-- 🌱 I'm currently exploring **Next.js** (SSR, SSG, Server Components & App Router)
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React**
+- 🔭 I'm currently building projects with **React**, **Next.js**, **Better Auth**, and **MongoDB**
+- 🌱 I'm currently exploring **Next.js App Router**, **Better Auth integration**, and **NoSQL Database modeling**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Better Auth, MongoDB**
 - 📫 Reach me at: **dhimanpaul119@gmail.com**
 - ⚡ Fun fact: *movies, books, and games... are keeping me alive*
 
@@ -54,6 +54,18 @@
   </a>
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Database & Authentication Stack -->
+  <p><b>Backend, Database & Authentication</b></p>
+  
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.better-auth.com/">
+    <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=security&logoColor=00F5D4" alt="Better Auth" />
   </a>
 
   <br/><br/>
@@ -91,7 +103,7 @@
   <!-- Visual Focus Icons -->
   <p><b>Visual Skill Focus</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,git,github,vscode&perline=10" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,git,github,vscode&perline=11" alt="Skill Icons" />
   </p>
 
 </div>
@@ -122,7 +134,7 @@
 
 ### 🚀 Featured Projects
 
-*A selection of frontend projects built with modern web technologies:*
+*A selection of frontend & full-stack projects built with modern web technologies:*
 
 | Project | Description | Site | Repository |
 | :--- | :--- | :--- | :--- |
