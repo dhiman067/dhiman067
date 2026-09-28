@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Dhiman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Dhiman%20👋&fontSize=42&fontColor=f[...]
 
 <h3 align="center">Frontend Developer | Building clean, fast UIs with React & Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Tailwind+CSS;JavaScript+%7C+TypeScript;Building+with+React+%26+Next.js+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;HTML+%[...]
 </p>
 
 <p align="center">
@@ -70,6 +70,18 @@
 
   <br/><br/>
 
+  <!-- Backend & Database -->
+  <p><b>Backend & Database</b></p>
+  
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.betterauth.dev/">
+    <img src="https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
+  </a>
+
+  <br/><br/>
+
   <!-- Tools & Workflow -->
   <p><b>Development Tools & Environment</b></p>
   
@@ -102,9 +114,9 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dhiman067&show_icons=true&theme=radical&hide_border=true&title_color=F72585&icon_color=F72585&text_color=E0E0E0&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dhiman067&show_icons=true&theme=radical&hide_border=true&title_color=F72585&icon_color=F72585&text_color=E0E0E0&bg_col[...]
   &nbsp;
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhiman067&layout=compact&theme=radical&hide_border=true&title_color=F72585&text_color=E0E0E0&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhiman067&layout=compact&theme=radical&hide_border=true&title_color=F72585&text_color=E0E0E0&bg_color=0D111[...]
 
 </div>
 
@@ -126,9 +138,9 @@
 
 | Project | Description | Site | Repository | Stacks |
 | :--- | :--- | :--- | :--- | :--- |
-| 🌐 **Geometry Genius** | Interactive site to calculate area and volumes of different kind of shapes . | [Link](https://geometry-genius-sand.vercel.app/) | [Code](https://github.com/dhiman067) | Tailwind, Vanilla JavaScript |
-| 📌 **CinePulse-Find All Your Tv Shows** | Fully responsive portal to find all your favorite tv shows with interactive component states. | [Link](https://cinepulse-site.vercel.app/) | [Code](https://github.com/dhiman067) | Tailwind, JavaScript, React |
-| 📌 **Development Tool Manager** | Fully responsive developer tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com/dhiman067/assignment-05) | Tailwind, TypeScript, React |
+| 🌐 **Geometry Genius** | Interactive site to calculate area and volumes of different kind of shapes . | [Link](https://geometry-genius-sand.vercel.app/) | [Code](https://github.com/dhiman067) | Ta[...]
+| 📌 **CinePulse-Find All Your Tv Shows** | Fully responsive portal to find all your favorite tv shows with interactive component states. | [Link](https://cinepulse-site.vercel.app/) | [Code](https:[...]
+| 📌 **Development Tool Manager** | Fully responsive developer tool layout with interactive component states. | [Link](https://development-tool-manager-flame.vercel.app/) | [Code](https://github.com[...]
 
 ---
 
